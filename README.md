@@ -38,9 +38,9 @@ DATA ANALYSIS
 
 Data analysis was performed using SQL Server. The main steps included:
 
-1. Data Cleaning: Ensured data quality by handling missing values, duplicates, and inconsistencies.
-2. Exploratory Data Analysis (EDA): Conducted EDA to understand the data distribution and relationships.
-3. SQL Queries: Developed various SQL queries to extract meaningful insights.
+1. **Data Cleaning**: Ensured data quality by handling missing values, duplicates, and inconsistencies.
+2. **Exploratory Data Analysis (EDA)**: Conducted EDA to understand the data distribution and relationships.
+3. **SQL Queries**: Developed various SQL queries to extract meaningful insights.
 
 KEY SQL QUERIES 
 
